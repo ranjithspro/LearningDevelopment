@@ -1,0 +1,8 @@
+Victory.MainActivity, Victory;md548bb7f000e59b7393b2708119f369e4e.MainActivity
+Victory.MainActivity, Victory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md548bb7f000e59b7393b2708119f369e4e.MainActivity
+Victory.MainActivity;md548bb7f000e59b7393b2708119f369e4e.MainActivity
+victory.MainActivity;md548bb7f000e59b7393b2708119f369e4e.MainActivity
+Victory.Welcome, Victory;md548bb7f000e59b7393b2708119f369e4e.Welcome
+Victory.Welcome, Victory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md548bb7f000e59b7393b2708119f369e4e.Welcome
+Victory.Welcome;md548bb7f000e59b7393b2708119f369e4e.Welcome
+victory.Welcome;md548bb7f000e59b7393b2708119f369e4e.Welcome

@@ -1,0 +1,5 @@
+/VSDev/LearningDevelopment/FirstApplication/FirstApplication/bin/FirstApplication.dll
+/VSDev/LearningDevelopment/FirstApplication/FirstApplication/bin/FirstApplication.pdb
+/VSDev/LearningDevelopment/FirstApplication/FirstApplication/obj/Debug/FirstApplication.csproj.CoreCompileInputs.cache
+/VSDev/LearningDevelopment/FirstApplication/FirstApplication/obj/Debug/FirstApplication.dll
+/VSDev/LearningDevelopment/FirstApplication/FirstApplication/obj/Debug/FirstApplication.pdb

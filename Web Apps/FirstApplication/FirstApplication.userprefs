@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A37B8D31-A9DE-406D-9E34-5542EB3D56B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstApplication/Default.aspx.cs">
+    <Files>
+      <File FileName="FirstApplication/Default.aspx" Line="18" Column="3" />
+      <File FileName="FirstApplication/Default.aspx.designer.cs" Line="17" Column="1" />
+      <File FileName="FirstApplication/Default.aspx.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FirstApplication" expanded="True" selected="True">
+            <Node name="FirstApplication" expanded="True">
+              <Node name="FirstApplication" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.0.1.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/VSDev/LearningDevelopment/FirstApplication/FirstApplication/Default.aspx.cs" relfile="FirstApplication/Default.aspx.cs" line="16" column="13" />
+      <Breakpoint file="/VSDev/LearningDevelopment/FirstApplication/FirstApplication/Default.aspx.cs" relfile="FirstApplication/Default.aspx.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirstApplication PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,7 @@
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/Victory.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/Java.Interop.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/Mono.Android.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/System.Core.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/System.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/mscorlib.dll
+/VSDev/LearningDevelopment/Victory/Victory/obj/Release/android/assets/System.Runtime.Serialization.dll
