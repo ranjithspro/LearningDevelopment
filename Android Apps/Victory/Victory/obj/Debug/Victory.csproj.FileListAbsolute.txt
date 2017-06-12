@@ -16,3 +16,26 @@
 /VSDev/LearningDevelopment/Victory/Victory/obj/Debug/res/layout/welcome_page.xml
 /VSDev/LearningDevelopment/Victory/Victory/obj/Debug/R.cs.flag
 /VSDev/LearningDevelopment/Victory/Victory/obj/Debug/uploadflags.txt
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/Victory.dll
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/Victory.pdb
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/com.companyname.victory.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/com.companyname.victory-Signed.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/Victory.csproj.CoreCompileInputs.cache
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/Victory.dll
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/Victory.pdb
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/android/bin/com.companyname.victory.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/values/strings.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/mipmap-hdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/mipmap-mdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/mipmap-xhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/mipmap-xxhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/layout/main.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/layout/welcome_page.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/drawable/mobileportrait.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/drawable/loginlogin.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/drawable/border.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/drawable/groupspt.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/R.cs.flag
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/uploadflags.txt
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Debug/res/layout/contacts.xml

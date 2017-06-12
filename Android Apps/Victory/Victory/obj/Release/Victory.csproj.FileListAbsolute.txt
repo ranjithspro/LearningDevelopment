@@ -16,3 +16,22 @@
 /VSDev/LearningDevelopment/Victory/Victory/obj/Release/res/layout/welcome_page.xml
 /VSDev/LearningDevelopment/Victory/Victory/obj/Release/R.cs.flag
 /VSDev/LearningDevelopment/Victory/Victory/obj/Release/uploadflags.txt
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/Victory.csproj.CoreCompileInputs.cache
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/Victory.dll
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/Victory.pdb
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/com.companyname.victory.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/bin/com.companyname.victory-Signed.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/Victory.dll
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/Victory.pdb
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/android/bin/com.companyname.victory.apk
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/values/strings.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/mipmap-hdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/mipmap-mdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/mipmap-xhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/mipmap-xxhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/mipmap-xxxhdpi/icon.png
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/layout/main.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/layout/welcome_page.xml
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/R.cs.flag
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/uploadflags.txt
+/VSDev/LearningDevelopment/Android Apps/Victory/Victory/obj/Release/res/drawable/login.png

@@ -11,17 +11,63 @@
         android:maxWidth="75dp"
         android:text="Logout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    <AutoCompleteTextView
-        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/autoCompleteTextView1"
-        android:layout_marginRight="0.0dp" />
-    <AbsoluteLayout
-        android:minWidth="25px"
-        android:minHeight="25px"
+        android:layout_marginLeft="250dp" />
+    <TabHost
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/absoluteLayout1"
-        android:layout_marginLeft="0.0dp" />
+        android:layout_height="fill_parent"
+        android:id="@+id/tabHost">
+        <TabWidget
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@android:id/tabs" />
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@android:id/tabcontent"
+            android:layout_marginBottom="0.0dp">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tab1"
+                android:orientation="vertical"
+                android:paddingTop="60px"
+                android:minWidth="25px"
+                android:minHeight="25px">
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/ListViews"
+                    android:layout_marginTop="30dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tab2"
+                android:orientation="vertical"
+                android:paddingTop="60px"
+                android:minWidth="25px"
+                android:minHeight="25px">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/txt2"
+                    android:layout_marginTop="30dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tab3"
+                android:orientation="vertical"
+                android:paddingTop="60px"
+                android:minWidth="25px"
+                android:minHeight="25px">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/Txt3"
+                    android:layout_marginTop="30dp" />
+            </LinearLayout>
+        </FrameLayout>
+    </TabHost>
 </LinearLayout>

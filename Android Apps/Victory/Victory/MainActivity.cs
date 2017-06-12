@@ -2,24 +2,27 @@
 using Android.Widget;
 using Android.OS;
 using Android;
+using System.Collections.Generic;
 
 namespace Victory
 {
     [Activity(Label = "Victory", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
-    //    int count = 1;
+        //    int count = 1;
+        Dictionary<string, string> Credentials = new Dictionary<string, string>();
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            Credentials.Add("441352", "12345");
+            Credentials.Add("1", "1");
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            ImageView button = FindViewById<ImageView>(Resource.Id.myButton);
             EditText txtName = FindViewById<EditText>(Resource.Id.editText1);
             EditText txtPassWord = FindViewById<EditText>(Resource.Id.editText2);
 
@@ -42,9 +45,12 @@ namespace Victory
             AlertDialog AD = AlertBox.Create();
             AD.SetIcon(Android.Resource.Drawable.IcDialogAlert);
 
-            if (UserName == "441352" & passWord == "12345")
-                return true;
-			AD.SetMessage("Fuck OFFFFF!!!");
+            if (Credentials.ContainsKey(UserName))
+            {
+                if (Credentials[UserName] == passWord)
+                    return true;
+            }
+			AD.SetMessage("Fuck Offff!!!");
             AD.SetButton("GetOut",(sender, e) =>
             {
                 AD.Hide();

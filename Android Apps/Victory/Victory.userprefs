@@ -1,22 +1,21 @@
 ﻿<Properties StartupConfiguration="{589D9313-DF08-4EF3-B195-6D95BE04E845}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Victory/Welcome.cs">
     <Files>
-      <File FileName="Victory/MainActivity.cs" Line="40" Column="13" />
-      <File FileName="Victory/Welcome.cs" Line="24" Column="62" />
-      <File FileName="Victory/Resources/values/Strings.xml" Line="3" Column="35" />
+      <File FileName="Victory/Welcome.cs" Line="34" Column="1" />
       <File FileName="Victory/Resources/Resource.designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.0.1.1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/VSDev/LearningDevelopment/Victory/Victory/Resources/Resource.designer.cs" relfile="Victory/Resources/Resource.designer.cs" line="22" column="1" />
-      <Breakpoint file="/VSDev/LearningDevelopment/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="3" column="1" />
-      <Breakpoint file="/VSDev/LearningDevelopment/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="6" column="1" />
-      <Breakpoint file="/VSDev/LearningDevelopment/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="19" column="1" />
+      <Breakpoint file="/VSDev/LearningDevelopment/Android Apps/Victory/Victory/Resources/Resource.designer.cs" relfile="Victory/Resources/Resource.designer.cs" line="22" column="1" />
+      <Breakpoint file="/VSDev/LearningDevelopment/Android Apps/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="3" column="1" />
+      <Breakpoint file="/VSDev/LearningDevelopment/Android Apps/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="6" column="1" />
+      <Breakpoint file="/VSDev/LearningDevelopment/Android Apps/Victory/Victory/Resources/layout/Main.axml" relfile="Victory/Resources/layout/Main.axml" line="19" column="1" />
+      <Breakpoint file="/VSDev/LearningDevelopment/Android Apps/Victory/Victory/Welcome.cs" relfile="Victory/Welcome.cs" line="34" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Victory AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Material.Light.Dialog.FixedSize" />
+  <MonoDevelop.Ide.ItemProperties.Victory AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Black.NoTitleBar" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
